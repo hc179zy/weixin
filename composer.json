@@ -1,0 +1,20 @@
+{
+    "name": "hcgrzh/weixin",
+    "description": "weixin interface",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hcgrzh",
+            "email": "hc_179zy@163.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"hcgrzh\\weixin\\": "src"
+		}
+	}
+}
